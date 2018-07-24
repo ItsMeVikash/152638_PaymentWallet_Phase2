@@ -1,7 +1,5 @@
 # 152638_PaymentWallet_Phase2
 
-# 152638_PaymentWallet_Phase1
-
 PARALLEL PROJECT BY VIKASH KUMAR
 
 OBJECTIVE 
@@ -22,14 +20,9 @@ Following is a list of functionalities of the system.
 Customer should be able to:
 
 a.	Create payment wallet.
-
 b.	Deposit money.
-
 c.	Check the balance.
-
 d.	Withdraw money.
-
 e.	Print transactions.
-
 f.	Do Fund transfer.
 
