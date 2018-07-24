@@ -20,9 +20,14 @@ Following is a list of functionalities of the system.
 Customer should be able to:
 
 a.	Create payment wallet.
+
 b.	Deposit money.
+
 c.	Check the balance.
+
 d.	Withdraw money.
+
 e.	Print transactions.
+
 f.	Do Fund transfer.
 
